@@ -1,0 +1,18 @@
+body{
+    font-family: Avenir;
+}
+div{
+    border: 1px solid rgb(233, 240, 237);
+    width: 20%;
+    padding: 4px;
+    padding-left: 10px;
+    font-size: 1em;
+    color: rgb(127, 129, 129);
+    font-weight: 50;
+}
+.Home{
+    color: #66CC99;
+}
+h1{
+    font-size: 1.5em;
+}

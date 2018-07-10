@@ -1,0 +1,39 @@
+.Title{
+    font-size: 1.2em;
+    font-family: Futura;
+    margin-bottom: 20px;
+    font-weight: inherit;
+
+}
+.content{
+    display: flex;
+}
+.options{
+    background:rgb(205,92,92);
+    color: white;
+    margin: 8px;
+    padding: 4px;
+}
+.Middle{
+    display: flex;
+    content: center;
+    justify-content: center;
+}
+.container{
+    width: 46%;
+}
+.search{
+    border: none;
+    border-bottom: 1px solid gray;
+    padding-bottom:1px;
+    margin-left: 15px;
+}
+.summer{
+    color: rgb(127, 129, 129);
+    font-size: 0.8em;
+    margin-left: 5px;
+}
+.current{
+    color: rgb(96, 99, 99);
+    font-size: 1em;
+}

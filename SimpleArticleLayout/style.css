@@ -1,0 +1,39 @@
+#mono{
+    background-color: black;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 40;
+    text-decoration: none;
+}
+.container{
+    margin: auto;
+    padding: 100px;
+    width: 40%;
+    
+}
+.text{
+    font-family: serif;
+    text-align: justify;
+    line-height: 1.25;
+}
+body{
+    background-color: #FBF9F1;
+}
+h2{
+    font-family: Georgia ;
+    display: inline-block;
+    font-weight: 40;
+
+}
+.link{
+    color: #77A8D2;
+    text-decoration: none;
+}
+.Hello{
+    font-family: Georgia ;
+    font-weight: 10;
+    font-size: 2.5em;
+}
+span{
+    text-decoration: underline;
+}
